@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://dangdoll.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/dangdoll-000000?style=flat-square&logo=Tistory&logoColor=FF7F50"/></a>
+<a href="https://dangdoll.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/dangdoll-ffffff?style=flat-square&logo=Tistory&logoColor=FF7F50"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exh2g02&show_icons=true&theme=radical)
 
